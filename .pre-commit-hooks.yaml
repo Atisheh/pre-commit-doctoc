@@ -1,0 +1,5 @@
+-   id: doctoc
+    name: Insert TOC for Markdown files with doctoc
+    language: node
+    additional_dependencies: [doctoc]
+    types: [markdown]
